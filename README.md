@@ -1,6 +1,6 @@
 # Hi 👋 I'm Surya Ramadhani
 
-💻 Aspiring Data Scientist | iOS Developer  
+💻 Aspiring Data Scientist | Apple Developer Academy Graduate
 
 ## 🚀 About Me
 
