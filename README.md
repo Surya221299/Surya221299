@@ -19,8 +19,20 @@ Programming
 <img src="https://www.svgrepo.com/show/354421/swift.svg" width="24" align="center"/> Swift
 </p>
 
-## ⚙️ Tools
-Pandas | Matplotlib | NumPy | Scikit-learn  
+<h2>
+<img src="https://www.svgrepo.com/show/508299/gear.svg" width="28"/>
+Tools
+</h2>
+
+<p style="display:flex; align-items:center; gap:8px;">
+<img src="https://cdn.simpleicons.org/pandas/ffffff" width="22"/> Pandas
+<span>|</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" align="center"/> NumPy
+<span>|</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="24" align="center"/> Matplotlib
+<span>|</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" align="center"/> Scikit-learn
+</p>
 
 <h3>
 <img src="https://www.svgrepo.com/show/97437/database.svg" width="24"/>
