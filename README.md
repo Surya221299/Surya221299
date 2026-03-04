@@ -10,10 +10,16 @@
 - Building projects with Python & SQL
 - Interested in AI, Finance, and Technology
 
-## 🛠 Tech Stack
+## 🛠 Programming
+Python | Swift  
 
-Python | SQL | Swift  
-Pandas | NumPy | Scikit-learn  
+## ⚙️ Tools
+Pandas | Matplotlib | NumPy | Scikit-learn  
+
+<h3>
+<img src="https://www.svgrepo.com/show/97437/database.svg" width="24"/>
+Database
+</h3>
 PostgreSQL | Git | Docker
 
 ---
