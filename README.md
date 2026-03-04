@@ -29,7 +29,8 @@ PostgreSQL | Git | Docker
 ## 📫 Contact
 
 <a href="https://linkedin.com/in/sur-ramdhan">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40"/>
+  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="24"/>
 </a>
+
 suryaramadhani98@gmail.com
 +62 895334484676
