@@ -28,8 +28,6 @@ PostgreSQL | Git | Docker
 
 ## 📫 Contact
 
-<a href="https://linkedin.com/in/USERNAME">
-  <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40"/>
-</a>
+<img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="40"/>
 suryaramadhani98@gmail.com
 +62 895334484676
