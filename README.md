@@ -8,8 +8,15 @@
 - Building projects with Python & SQL
 - Interested in AI, Finance, and Technology
 
-## 🛠 Programming
-Python | Swift  
+<h2>
+<img src="https://www.svgrepo.com/show/249745/coding-web-development.svg" width="28"/>
+Programming
+</h2>
+<p>
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="24"/> Python
+<br>
+<img src="https://www.svgrepo.com/show/354421/swift.svg" width="24"/> Swift
+</p>
 
 ## ⚙️ Tools
 Pandas | Matplotlib | NumPy | Scikit-learn  
@@ -18,7 +25,6 @@ Pandas | Matplotlib | NumPy | Scikit-learn
 <img src="https://www.svgrepo.com/show/97437/database.svg" width="24"/>
 Database
 </h3>
-PostgreSQL | Git | Docker
 
 ---
 
