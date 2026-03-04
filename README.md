@@ -32,6 +32,8 @@ Tools
 <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="24" align="center"/> Matplotlib
 <span>|</span>
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" align="center"/> Scikit-learn
+<span>|</span>
+<img src="https://www.svgrepo.com/show/373623/git.svg" width="24" align="center"/> Git
 </p>
 
 <h3>
