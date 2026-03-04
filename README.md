@@ -9,7 +9,7 @@
 - Interested in AI, Finance, and Technology
 
 <h2>
-<img src="https://www.svgrepo.com/show/249745/coding-web-development.svg" width="28"/>
+<img src="https://www.svgrepo.com/show/249745/coding-web-development.svg" width="28" align="center"/>
 Programming
 </h2>
 
@@ -35,7 +35,7 @@ Tools
 </p>
 
 <h3>
-<img src="https://www.svgrepo.com/show/97437/database.svg" width="24"/>
+<img src="https://www.svgrepo.com/show/97437/database.svg" width="24"alighn="center"/>
 Database
 </h3>
 
