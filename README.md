@@ -24,9 +24,20 @@ PostgreSQL | Git | Docker
 
 ## 📫 Contact
 
-<a href="https://linkedin.com/in/sur-ramdhan" style="text-decoration:none;color:white;">
+<p>
+
+<a href="https://linkedin.com/in/sur-ramdhan" style="text-decoration:none;">
   <img src="https://www.svgrepo.com/show/448234/linkedin.svg" width="24" align="center"/>
-  <span>Surya Ramadhani</span>
+  <span>LinkedIn</span>
 </a>
-suryaramadhani98@gmail.com
+
+<br><br>
+
+<a href="mailto:suryaramadhani98@gmail.com" style="text-decoration:none;">
+  <img src="https://www.svgrepo.com/show/452213/gmail.svg" width="24" align="center"/>
+  <span>suryaramadhani98@gmail.com</span>
+</a>
+
+</p>
+
 +62 895334484676
