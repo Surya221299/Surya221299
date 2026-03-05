@@ -8,6 +8,8 @@
 - Building projects with Python & SQL
 - Interested in AI, Finance, and Technology
 
+<br>
+
 <h2>
 <img src="https://www.svgrepo.com/show/249745/coding-web-development.svg" width="28" align="center"/>
 Programming
@@ -18,6 +20,9 @@ Programming
 &nbsp; | &nbsp;
 <img src="https://www.svgrepo.com/show/354421/swift.svg" width="24" align="center"/> Swift
 </p>
+
+<br>
+
 
 <h2>
 <img src="https://www.svgrepo.com/show/374347/library-opened.svg" width="28" align="center"/>
@@ -36,6 +41,9 @@ Framework & Libraries
 <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
 </p>
 
+<br>
+
+
 <h2>
 <img src="https://www.svgrepo.com/show/508299/gear.svg" width="28"/>
 Tools
@@ -53,12 +61,15 @@ Tools
 <img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" align="center"/> Create ML
 </p>
 
+<br>
+
+
 <h3>
 <img src="https://www.svgrepo.com/show/97437/database.svg" width="24"alighn="center"/>
 Database
 </h3>
 
----
+<br>
 
 ## 📫 Contact
 
