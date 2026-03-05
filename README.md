@@ -2,7 +2,21 @@
 
 💻 Intereset in Data Scientist | Apple Developer Academy Graduate
 
-## 🚀 About Me
+## 🚀 Projects
+
+**Linear Regression and Random Forest for Purchase Order Recommendation**
+A trained model to give quantity purchase order for each motorcycle spareparts
+Tech: Python, Colab, Pandas, Matplotlib, Numpy, Scikit-learn
+
+**CreateML and CoreML for realtime Classification Motorcycle Spareparts Detection**
+iOS app to detect unlabelled motorcycle parts.
+Tech: Roboflow, Swift, UIKit, Vision, Create ML, Core ML
+
+**Pikarto**
+iOS AI based app create to help people communicate more clear and structured way.
+Tech: Swiftui, SwiftData, OpenAI API, Gemini API
+
+## 👨‍🔧 About Me
 
 - Learning Data Science & Machine Learning
 - Building projects with Python & SQL
