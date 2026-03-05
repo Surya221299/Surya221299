@@ -20,7 +20,7 @@ Programming
 </p>
 
 <h2>
-<img src="https://www.svgrepo.com/show/508299/gear.svg" width="28"/>
+<img src="https://www.svgrepo.com/show/374347/library-opened.svg" width="28" align="center"/>
 Framework & Libraries
 </h2>
 
