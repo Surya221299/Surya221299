@@ -21,19 +21,36 @@ Programming
 
 <h2>
 <img src="https://www.svgrepo.com/show/508299/gear.svg" width="28"/>
+Framework & Libraries
+</h2>
+
+<p style="display:flex; align-items:center; gap:8px;">
+<img src="https://cdn.simpleicons.org/pandas/ffffff" width="18" align="center"/> Pandas
+<span>|</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="22" align="center"/> NumPy
+<span>|</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="22" align="center"/> Matplotlib
+<span>|</span>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="26" align="center"/> Scikit-learn
+<span>|</span>
+<img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
+</p>
+
+<h2>
+<img src="https://www.svgrepo.com/show/508299/gear.svg" width="28"/>
 Tools
 </h2>
 
 <p style="display:flex; align-items:center; gap:8px;">
-<img src="https://cdn.simpleicons.org/pandas/ffffff" width="22"/> Pandas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" width="24" align="center"/> Xcode
 <span>|</span>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="24" align="center"/> NumPy
-<span>|</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="24" align="center"/> Matplotlib
-<span>|</span>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="28" align="center"/> Scikit-learn
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="24" align="center"/> PyCharm
 <span>|</span>
 <img src="https://www.svgrepo.com/show/373623/git.svg" width="24" align="center"/> Git
+<span>|</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="14"/> Figma
+<span>|</span>
+<img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" align="center"/> Create ML
 </p>
 
 <h3>
