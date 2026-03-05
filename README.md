@@ -4,17 +4,24 @@
 
 ## 🚀 Projects
 
-**Linear Regression and Random Forest for Purchase Order Recommendation**
-A trained model to give quantity purchase order for each motorcycle spareparts
-Tech: Python, Colab, Pandas, Matplotlib, Numpy, Scikit-learn
+### Linear Regression & Random Forest for Purchase Order Recommendation
+A trained machine learning model that recommends purchase order quantities for motorcycle spare parts.
 
-**CreateML and CoreML for realtime Classification Motorcycle Spareparts Detection**
-iOS app to detect unlabelled motorcycle parts.
-Tech: Roboflow, Swift, UIKit, Vision, Create ML, Core ML
+**Tech:** Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn
 
-**Pikarto**
-iOS AI based app create to help people communicate more clear and structured way.
-Tech: Swiftui, SwiftData, OpenAI API, Gemini API
+---
+
+### CreateML & CoreML Realtime Motorcycle Spare Parts Object Detection
+An iOS application that detects unlabeled motorcycle spare parts using real-time object detection.
+
+**Tech:** Roboflow, Swift, UIKit, Vision, Create ML, Core ML
+
+---
+
+### Pikarto
+An AI-powered iOS app designed to help people communicate in a clearer and more structured way.
+
+**Tech:** SwiftUI, SwiftData, OpenAI API, Gemini API
 
 ## 👨‍🔧 About Me
 
