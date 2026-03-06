@@ -60,6 +60,8 @@ Framework & Libraries
 <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="26" align="center"/> Scikit-learn
 <span>|</span>
 <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
+<span>|</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20" align="center"/> TensorFlow
 </p>
 
 <br>
