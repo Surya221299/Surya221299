@@ -4,7 +4,7 @@
 
 ## 🚀 Projects
 
-### Linear Regression & Random Forest for Purchase Order Recommendation
+### 1.) Linear Regression & Random Forest for Purchase Order Recommendation
 A trained machine learning model that recommends purchase order quantities for motorcycle spare parts.
 
 <p>
@@ -25,7 +25,7 @@ A trained machine learning model that recommends purchase order quantities for m
 
 ---
 
-### CreateML & CoreML Realtime Motorcycle Spare Parts Object Detection
+### 2.) CreateML & CoreML Realtime Motorcycle Spare Parts Object Detection
 An iOS application that detects unlabeled motorcycle spare parts using real-time object detection.
 
 <p>
@@ -44,10 +44,20 @@ An iOS application that detects unlabeled motorcycle spare parts using real-time
 <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
 </p>
 
-### Pikarto
+### 3.) Pikarto
 An AI-powered iOS app designed to help people communicate in a clearer and more structured way.
 
-**Tech:** SwiftUI, SwiftData, OpenAI API, Gemini API
+<p>
+<strong>Tech:</strong>
+
+<img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" align="center"/> SwiftUI
+&nbsp; | &nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="20" align="center"/> SwiftData
+&nbsp; | &nbsp;
+<img src="https://www.svgrepo.com/show/306500/openai.svg" width="20" align="center"/> OpenAI API
+&nbsp; | &nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="20" align="center"/> Gemini API
+</p>
 
 ## 👨‍🔧 About Me
 
