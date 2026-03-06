@@ -82,6 +82,8 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="14"/> Figma
 <span>|</span>
 <img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" align="center"/> Create ML
+<span>|</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" align="center"/> Jupyter Notebook
 </p>
 
 <br>
