@@ -31,19 +31,18 @@ An iOS application that detects unlabeled motorcycle spare parts using real-time
 <p>
 <strong>Tech:</strong>
 
-<img src="https://cdn.simpleicons.org/roboflow/6706ce" width="20" style="vertical-align:middle"/> Roboflow
+<img src="https://cdn.simpleicons.org/roboflow/6706ce" width="20" align="center"/> Roboflow
 &nbsp; | &nbsp;
-<img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" style="vertical-align:middle"/> Swift
+<img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" align="center"/> Swift
 &nbsp; | &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" style="vertical-align:middle"/> UIKit
+<img src="https://developer.apple.com/assets/elements/icons/uikit/uikit-96x96_2x.png" width="20" align="center"/> UIKit
 &nbsp; | &nbsp;
-<img src="https://developer.apple.com/assets/elements/icons/vision/vision-96x96_2x.png" width="20" style="vertical-align:middle"/> Vision
+<img src="https://www.svgrepo.com/show/231097/eye-view.svg" width="20" align="center"/> Vision
 &nbsp; | &nbsp;
-<img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" style="vertical-align:middle"/> Create ML
+<img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" align="center"/> Create ML
 &nbsp; | &nbsp;
-<img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" style="vertical-align:middle"/> Core ML
+<img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
 </p>
----
 
 ### Pikarto
 An AI-powered iOS app designed to help people communicate in a clearer and more structured way.
