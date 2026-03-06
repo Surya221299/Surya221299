@@ -7,15 +7,42 @@
 ### Linear Regression & Random Forest for Purchase Order Recommendation
 A trained machine learning model that recommends purchase order quantities for motorcycle spare parts.
 
-**Tech:** Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn
+<p>
+<strong>Tech:</strong>
+
+<img src="https://www.svgrepo.com/show/452091/python.svg" width="20" align="center"/> Python
+&nbsp; | &nbsp;
+<img src="https://cdn.simpleicons.org/googlecolab/f9ab00" width="20" align="center"/> Google Colab
+&nbsp; | &nbsp;
+<img src="https://cdn.simpleicons.org/pandas/ffffff" width="20" align="center"/> Pandas
+&nbsp; | &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" align="center"/> NumPy
+&nbsp; | &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="20" align="center"/> Matplotlib
+&nbsp; | &nbsp;
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20" align="center"/> Scikit-learn
+</p>
 
 ---
 
 ### CreateML & CoreML Realtime Motorcycle Spare Parts Object Detection
 An iOS application that detects unlabeled motorcycle spare parts using real-time object detection.
 
-**Tech:** Roboflow, Swift, UIKit, Vision, Create ML, Core ML
+<p>
+<strong>Tech:</strong>
 
+<img src="https://cdn.simpleicons.org/roboflow/6706ce" width="20" style="vertical-align:middle"/> Roboflow
+&nbsp; | &nbsp;
+<img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" style="vertical-align:middle"/> Swift
+&nbsp; | &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="20" style="vertical-align:middle"/> UIKit
+&nbsp; | &nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/vision/vision-96x96_2x.png" width="20" style="vertical-align:middle"/> Vision
+&nbsp; | &nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" style="vertical-align:middle"/> Create ML
+&nbsp; | &nbsp;
+<img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" style="vertical-align:middle"/> Core ML
+</p>
 ---
 
 ### Pikarto
