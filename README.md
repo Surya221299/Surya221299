@@ -8,8 +8,8 @@
 A trained machine learning model that recommends purchase order quantities for motorcycle spare parts.
 
 <p>
-<strong>Tech:</strong>
-
+<strong>Tech</strong>
+&nbsp;: &nbsp;
 <img src="https://www.svgrepo.com/show/452091/python.svg" width="20" align="center"/> Python
 &nbsp; | &nbsp;
 <img src="https://cdn.simpleicons.org/googlecolab/f9ab00" width="20" align="center"/> Google Colab
@@ -29,8 +29,8 @@ A trained machine learning model that recommends purchase order quantities for m
 An iOS application that detects unlabeled motorcycle spare parts using real-time object detection.
 
 <p>
-<strong>Tech:</strong>
-
+<strong>Tech</strong>
+&nbsp;: &nbsp;
 <img src="https://cdn.simpleicons.org/roboflow/6706ce" width="20" align="center"/> Roboflow
 &nbsp; | &nbsp;
 <img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" align="center"/> Swift
@@ -48,8 +48,8 @@ An iOS application that detects unlabeled motorcycle spare parts using real-time
 An AI-powered iOS app designed to help people communicate in a clearer and more structured way.
 
 <p>
-<strong>Tech:</strong>
-
+<strong>Tech</strong>
+&nbsp;: &nbsp;
 <img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" align="center"/> SwiftUI
 &nbsp; | &nbsp;
 <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="20" align="center"/> SwiftData
