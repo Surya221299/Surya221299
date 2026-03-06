@@ -44,6 +44,8 @@ An iOS application that detects unlabeled motorcycle spare parts using real-time
 <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
 </p>
 
+---
+
 ### 3.) Pikarto
 An AI-powered iOS app designed to help people communicate in a clearer and more structured way.
 
@@ -58,6 +60,8 @@ An AI-powered iOS app designed to help people communicate in a clearer and more 
 &nbsp; | &nbsp;
 <img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="20" align="center"/> Gemini API
 </p>
+
+---
 
 ## 👨‍🔧 About Me
 
