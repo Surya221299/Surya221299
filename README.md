@@ -4,28 +4,40 @@
 
 ## 🚀 Projects
 
-### 1.) Linear Regression & Random Forest for Purchase Order (PO) Recommendation
+### 1️⃣ Linear Regression & Random Forest for Purchase Order (PO) Recommendation
 A trained machine learning model that recommends purchase order quantities for motorcycle spare parts.
+
+#### ⚠️ Problem
+Incorrectly determining the Purchase Order (PO) quantity can result in **overstock** or **understock** of motorcycle spare parts.  
+This situation makes it difficult to achieve the **monthly sales target of 1 billion rupiah**.
+
+#### 🔁 Process
+The dataset used is historical sales data that has undergone Exploratory Data Analysis (EDA), data cleaning, and feature engineering to ensure the quality and relevance of the features used. The data is then used to train **Linear Regression** and **Random Forest** models to perform analysis and produce more accurate predictions.
+
+#### 📊 Result
+The trained model produces **recommendations for the quantity of Purchase Orders (PO)** for each type of motorcycle spare part.
+
+These recommendations are generated based on **patterns learned from historical sales data**, helping businesses optimize inventory and better achieve their **monthly sales targets**.
 
 <p>
 <strong>Tech</strong>
 &nbsp;: &nbsp;
-<img src="https://www.svgrepo.com/show/452091/python.svg" width="20" align="center"/> Python
+Python
 &nbsp; | &nbsp;
-<img src="https://cdn.simpleicons.org/googlecolab/f9ab00" width="20" align="center"/> Google Colab
+Google Colab
 &nbsp; | &nbsp;
-<img src="https://cdn.simpleicons.org/pandas/ffffff" width="20" align="center"/> Pandas
+Pandas
 &nbsp; | &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="20" align="center"/> NumPy
+NumPy
 &nbsp; | &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" width="20" align="center"/> Matplotlib
+Matplotlib
 &nbsp; | &nbsp;
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="20" align="center"/> Scikit-learn
+Scikit-learn
 </p>
 
 ---
 
-### 2.) CreateML & CoreML Realtime Motorcycle Spare Parts Object Detection
+### 2️⃣ CreateML & CoreML Realtime Motorcycle Spare Parts Object Detection
 An iOS application that detects unlabeled motorcycle spare parts using real-time object detection.
 
 <p>
@@ -46,7 +58,7 @@ An iOS application that detects unlabeled motorcycle spare parts using real-time
 
 ---
 
-### 3.) Pikarto
+### 3️⃣ Pikarto
 An AI-powered iOS app designed to help people communicate in a clearer and more structured way.
 
 <p>
@@ -124,6 +136,9 @@ Tools
 <img src="https://developer.apple.com/assets/elements/icons/create-ml/create-ml-96x96_2x.png" width="20" align="center"/> Create ML
 <span>|</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" align="center"/> Jupyter Notebook
+<span>|</span>
+<img src="https://cdn.simpleicons.org/roboflow/6706ce" width="20" align="center"/> Roboflow
+
 </p>
 
 <br>
