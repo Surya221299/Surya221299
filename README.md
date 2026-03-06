@@ -4,7 +4,7 @@
 
 ## 🚀 Projects
 
-### 1.) Linear Regression & Random Forest for Purchase Order Recommendation
+### 1.) Linear Regression & Random Forest for Purchase Order (PO) Recommendation
 A trained machine learning model that recommends purchase order quantities for motorcycle spare parts.
 
 <p>
