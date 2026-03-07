@@ -22,17 +22,7 @@ These recommendations are generated based on **patterns learned from historical 
 <p>
 <strong>Tech</strong>
 &nbsp;: &nbsp;
-Python
-&nbsp; | &nbsp;
-Google Colab
-&nbsp; | &nbsp;
-Pandas
-&nbsp; | &nbsp;
-NumPy
-&nbsp; | &nbsp;
-Matplotlib
-&nbsp; | &nbsp;
-Scikit-learn
+Python, Google Colab, Pandas, NumPy, Matplotlib, Scikit-learn
 </p>
 
 ---
