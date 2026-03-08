@@ -21,7 +21,7 @@ The trained model produces **recommendations for the quantity of Purchase Orders
 (gambar dari folder assets/images/fina.png)
 
 <p align="center">
-<img src="assets/images/final.png" width="600">
+<img src="assets/images/final-result.png" width="600">
 </p>
 
 
