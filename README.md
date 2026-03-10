@@ -18,7 +18,6 @@ The dataset used is historical sales data that has undergone Exploratory Data An
 
 #### <img src="assets/icons/result.svg" width="20" style="vertical-align: middle;"> Result
 The trained model produces **recommendations for the quantity of Purchase Orders (PO)** for each type of motorcycle spare part.
-(gambar dari folder assets/images/fina.png)
 
 <p align="center">
 <img src="assets/images/final-result.png" width="600">
