@@ -135,6 +135,9 @@ Tools
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="20" align="center"/> Jupyter Notebook
 <span>|</span>
 <img src="https://cdn.simpleicons.org/roboflow/6706ce" width="20" align="center"/> Roboflow
+<span>|</span>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/datagrip/datagrip-original.svg" width="20" align="center" margin-right:6px;"/>
+DataGrip
 
 </p>
 
@@ -145,6 +148,15 @@ Tools
 <img src="https://www.svgrepo.com/show/97437/database.svg" width="24"alighn="center"/>
 Database
 </h3>
+
+<p style="display:flex; align-items:center; gap:8px;">
+<img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="20" margin-right:6px; align="center"/>
+SQL
+<span>|</span>
+<img src="https://www.svgrepo.com/show/303301/postgresql-logo.svg" width="20" align="center" margin-right:6px;"/>
+PostgreSQL
+
+</p>
 
 <br>
 
