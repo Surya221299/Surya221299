@@ -1,6 +1,6 @@
 # Hi 👋 I'm Surya Ramadhani
 
-💻 Intereset in Data Scientist | Apple Developer Academy Graduate
+💻 Intereset in AI/ML Engineer | Apple Developer Academy Graduate
 
 ## 🚀 Projects
 
