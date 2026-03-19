@@ -86,6 +86,8 @@ Framework & Libraries
 <img src="https://developer.apple.com/assets/elements/icons/core-ml/core-ml-96x96_2x.png" width="20" align="center"/> Core ML
 <span>|</span>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="20" align="center"/> TensorFlow
+<span>|</span>
+<img src="https://www.svgrepo.com/show/231097/eye-view.svg" width="20" align="center"/> Vision
 </p>
 
 <br>
