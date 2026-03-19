@@ -92,6 +92,9 @@ Framework & Libraries
 <img src="https://www.svgrepo.com/show/231097/eye-view.svg" width="20" align="center"/> Vision
 <span>|</span>
 <img src="https://developer.apple.com/assets/elements/icons/swiftdata/swiftdata-96x96_2x.png" width="20" align="center"/> SwiftData
+<span>|</span>
+<img src="https://www.svgrepo.com/show/354421/swift.svg" width="20" align="center"/> SwiftUI
+
 </p>
 
 <br>
