@@ -122,6 +122,18 @@ DataGrip
 
 <br>
 
+<h2>
+<img src="https://www.svgrepo.com/show/508299/gear.svg" width="28"/>
+AI Tools
+</h2>
+
+<p>
+<img src="assets/icons/openai.svg" width="18" align="center"> OpenAI API
+&nbsp; | &nbsp;
+<img src="https://cdn.simpleicons.org/googlegemini/4285F4" width="20" align="center"/> Gemini API
+</p>
+
+<br>
 
 <h3>
 <img src="https://www.svgrepo.com/show/97437/database.svg" width="24"alighn="center"/>
